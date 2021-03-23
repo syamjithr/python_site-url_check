@@ -33,3 +33,15 @@ for url in urls:
 ```
 #### output
 https://www.microsoft.com           - up
+
+https://www.kernel.org              - up
+
+https://www.unknown.unknown         - Error
+
+https://www.gnu.org                 - up
+
+https://www.facebook.com            - up
+
+https://mail.google.com             - up
+
+https://www.youtube.com             - up
